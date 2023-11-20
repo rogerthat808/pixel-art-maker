@@ -1,3 +1,55 @@
-#board {
-    cursor: pointer;
+
+.body {
+    background-color: lightsteelblue;
+}
+
+.title {
+    font-style: italic;
+    padding-left: 20%;
+    background-color: rgba(48, 183, 246, 0.892);
+}
+
+.container {
+    border-radius: 10px;
+}
+
+.one {
+    border-radius: 40px;
+    position: relative;
+    bottom: 2.5%;
+    left: 30%;
+}
+
+.two {
+    border-radius: 40px;
+    position: relative;
+    bottom: 8%;
+    left: 40%;
+}
+
+.three {
+    border-radius: 40px;
+    position: relative;
+    bottom: 13.7%;
+    left: 50%;
+}
+
+.four {
+    border-radius: 40px;
+    position: relative;
+    bottom: 19.3%;
+    left: 60%;
+}
+
+.five {
+    border-radius: 40px;
+    position: relative;
+    bottom: 25%;
+    left: 70%;
+}
+
+.eraser {
+    position: relative;
+    bottom: 80%;
+    left: 90%;
 }
